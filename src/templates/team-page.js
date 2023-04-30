@@ -86,7 +86,13 @@ export const teamPageQuery = graphql`
           name
           text
           url
-          image
+          image {
+            childImageSharp {
+              fluid(quality: 64) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
         }
       }
     }

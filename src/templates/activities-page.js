@@ -2,23 +2,23 @@ import React from "react";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import { HTMLContent } from "../components/Content";
-import Img from "gatsby-image";
 import { toHTML } from "./team-page";
 import { PageHeader } from "../components/PageHeader";
+import Img from "gatsby-image";
 
-const LeftColumnMember = ({ imgSrc, name, text }) => (
+const LeftColumnMember = ({ imageInfo, name, text }) => (
   <div className="column is-full">
     <div className="card">
       <div className="card-header">
-        <div className="card-header-title is-centered">
-          {/*<p className="title is-centered">{name}</p>*/}
-          {name}
-        </div>
+        <div className="card-header-title is-centered">{name}</div>
       </div>
       <div className="card-image is-narrow">
-        <figure className="image is-4by3">
-          <img src={imgSrc} alt={"activity image"} />
-        </figure>
+        <Img
+          fluid={imageInfo.childImageSharp.fluid}
+          object-fit={"contain"}
+          style={{ height: "auto", width: "100%", maxHeight: 350 }}
+          alt={""}
+        />
       </div>
       <div className="card-content">
         <HTMLContent content={toHTML(text)} />
@@ -28,7 +28,6 @@ const LeftColumnMember = ({ imgSrc, name, text }) => (
 );
 
 export const ActivitiesPageTemplate = ({ title, activities }) => {
-  console.log(activities);
   return (
     <>
       <PageHeader title={title} />
@@ -41,7 +40,7 @@ export const ActivitiesPageTemplate = ({ title, activities }) => {
                   key={index}
                   name={member.name}
                   text={member.text}
-                  imgSrc={member.image}
+                  imageInfo={member.image}
                 />
               ))}
             </div>
@@ -76,7 +75,13 @@ export const activitiesPageQuery = graphql`
         activities {
           name
           text
-          image
+          image {
+            childImageSharp {
+              fluid(maxHeight: 300, maxWidth: 300) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
         }
       }
     }
