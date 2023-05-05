@@ -1,20 +1,17 @@
 import * as React from "react";
 import PropTypes from "prop-types";
-import { GatsbyImage } from "gatsby-plugin-image";
+import { GatsbyImage, getImage } from "gatsby-plugin-image";
 
 const PreviewCompatibleImage = ({ imageInfo }) => {
   const imageStyle = { borderRadius: "5px" };
+  console.log({ imageInfo });
 
-  const { alt = "", childImageSharp, image } = imageInfo;
+  const image = getImage(imageInfo);
 
-  if (!!image && !!image.childImageSharp) {
-    return (
-      <GatsbyImage
-        image={image.childImageSharp.gatsbyImageData}
-        style={imageStyle}
-        alt={alt}
-      />
-    );
+  const { alt = "", childImageSharp } = imageInfo;
+
+  if (!!image) {
+    return <GatsbyImage image={image} style={imageStyle} alt={alt} />;
   } else if (!!childImageSharp) {
     return (
       <GatsbyImage
@@ -23,11 +20,11 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
         alt={alt}
       />
     );
-    // for Netlify CMS 
+    // for Netlify CMS
   } else if (image) {
-    return <img style={{imageStyle}} src={image} alt={alt} />;
+    return <img style={{ imageStyle }} src={image} alt={alt} />;
   } else {
-    return null
+    return null;
   }
 };
 

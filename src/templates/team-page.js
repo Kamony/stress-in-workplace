@@ -88,9 +88,7 @@ export const teamPageQuery = graphql`
           url
           image {
             childImageSharp {
-              fluid(quality: 64) {
-                ...GatsbyImageSharpFluid
-              }
+              gatsbyImageData(quality: 64)
             }
           }
         }
