@@ -11,6 +11,6 @@ members:
       * Jana Klicnarová
       * Nikola Soukupová
       * Markéta Adamová
-    image: /img/1.jpg
+    image: /img/2.jpg
     url: https://ef.jcu.cz
 ---
