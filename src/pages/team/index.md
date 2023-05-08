@@ -27,4 +27,11 @@ members:
       * Kun Ágota
     image: /img/priscilla-du-preez-ggez9oyi-pe-unsplash.jpg
     url: https://www.bme.hu/?language=en
+  - name: University of Presov
+    url: https://www.unipo.sk/en/
+    image: /img/priscilla-du-preez-ggez9oyi-pe-unsplash.jpg
+    text: |-
+      M﻿embers:
+
+      * Zuzana Birknerová
 ---
