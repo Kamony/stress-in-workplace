@@ -14,4 +14,11 @@ activities:
       research findings, preparation of the planned monograph, and other
       scientific outputs.
     image: /img/jaime-lopes-0rdboadnbwm-unsplash.jpg
+  - name: The common monograph "Readiness of small and medium-sized enterprises in
+      V4 for stress management interventions"
+    text: The monograph will consist of a description of the current state of the
+      issue, an overview of the research findings, a statistical evaluation of
+      the data, a comparison of the process in V4 states, and recommendations
+      for businesses
+    image: /img/sincerely-media-ngrfkmtwv24-unsplash.jpg
 ---
