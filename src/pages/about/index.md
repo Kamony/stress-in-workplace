@@ -21,6 +21,6 @@ The project's main aim is evaluation of existing theoretical and newly acquired 
 
 01/06/2023–30/11/2024 (18 months)
 
-![](/img/christian-erfurt-sxqz2vfofbe-unsplash.jpg)
+![]()
 
 ![](/img/luis-villasmil-mlvbmbxfwi4-unsplash.jpg)
