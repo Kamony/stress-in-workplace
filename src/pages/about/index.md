@@ -5,9 +5,9 @@ title: About the project
 ---
 ### Project
 
-The project titled "**Readiness of small and medium-sized enterprises in V4 for stress management interventions**" is co-financed by the Governments of Czechia, Hungary, Poland and Slovakia through Visegrad Grants from International Visegrad Fund. The mission of the fund is to advance ideas for sustainable regional cooperation in Central Europe.
+The project titled "**Readiness of small and medium-sized enterprises in V4 for stress management interventions**" is co-financed by the Governments of Czechia, Hungary, Poland and Slovakia through Visegrad Grants from [International Visegrad Fund](https://www.visegradfund.org/apply/grants/). The mission of the fund is to advance ideas for sustainable regional cooperation in Central Europe.
 
-The grantee is the University of South Bohemia in České Budějovice, Faculty of Economics.
+The grantee is the [University of South Bohemia in České Budějovice, Faculty of Economics](https://www.ef.jcu.cz/en/).
 
 ### Background
 
