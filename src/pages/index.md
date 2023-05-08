@@ -1,17 +1,17 @@
 ---
 templateKey: index-page
-title: Stress in workplace
+title: Readiness of small and medium-sized enterprises in V4 for stress
+  management interventions
 image: /img/1.jpg
 heading: placeholder
-subheading: Visegrad project od Nikoly z čejk
+subheading: Project Visegrad ID
 mainpitch:
   title: placeholder
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: placeholder
+    The project is co-financed by the Governments of Czechia, Hungary, Poland,
+    and Slovakia through Visegrad Grants from International Visegrad Fund. The
+    mission of the fund is to advance ideas for sustainable regional cooperation
+    in Central Europe.
 intro:
   blurbs:
     - image: /img/1.jpg
@@ -43,4 +43,6 @@ main:
   image3:
     alt: Coffee beans
     image: /img/1.jpg
+description: placeholder
 ---
+The project is co-financed by the Governments of Czechia, Hungary, Poland and Slovakia through Visegrad Grants from International Visegrad Fund. The mission of the fund is to advance ideas for sustainable regional cooperation in Central Europe.
