@@ -3,7 +3,7 @@ templateKey: activities-page
 title: Activities
 activities:
   - name: |
-      The international online workshop of project partners 
+      The international workshop of project partners 
     text: Organization of a two-day international workshop, "Stress management in
       the workplace," in the Czech Republic (České Budějovice). The objective
       will be to bring together the academic community and business
