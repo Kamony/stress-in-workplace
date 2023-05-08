@@ -6,11 +6,11 @@ members:
     text: |-
       Members:
 
-      * Renata Klufová
-      * Zuzana Dvořáková Líšková
-      * Jana Klicnarová
-      * Nikola Soukupová
       * Markéta Adamová
+      * Nikola Soukupová
+      * Jana Klicnarová
+      * Jan Fiala
+      * Tomáš Roskovec
     image: /img/2.jpg
     url: https://ef.jcu.cz
 ---
