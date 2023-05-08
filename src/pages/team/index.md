@@ -24,7 +24,7 @@ members:
     text: |-
       M﻿embers:
 
-      *
+      * Kun Ágota
     image: /img/priscilla-du-preez-ggez9oyi-pe-unsplash.jpg
     url: https://www.bme.hu/?language=en
 ---
