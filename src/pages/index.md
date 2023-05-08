@@ -4,7 +4,7 @@ title: Readiness of small and medium-sized enterprises in V4 for stress
   management interventions
 image: /img/1.jpg
 heading: placeholder
-subheading: Project Visegrad ID
+subheading: Project Visegrad ID 22310003
 mainpitch:
   title: placeholder
   description: >
