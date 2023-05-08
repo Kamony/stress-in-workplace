@@ -11,6 +11,6 @@ members:
       * Jana Klicnarová
       * Jan Fiala
       * Tomáš Roskovec
-    image: /img/2.jpg
+    image: /img/marvin-meyer-syto3xs06fu-unsplash.jpg
     url: https://ef.jcu.cz
 ---
