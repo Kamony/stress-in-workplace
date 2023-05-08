@@ -20,3 +20,5 @@ The project's main aim is evaluation of existing theoretical and newly acquired 
 ### Implementation Period
 
 01/06/2023–30/11/2024 (18 months)
+
+![](/img/luis-villasmil-mlvbmbxfwi4-unsplash.jpg)
