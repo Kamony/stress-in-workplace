@@ -11,6 +11,20 @@ members:
       * Jana Klicnarová
       * Jan Fiala
       * Tomáš Roskovec
-    image: /img/marvin-meyer-syto3xs06fu-unsplash.jpg
+    image: /img/priscilla-du-preez-ggez9oyi-pe-unsplash.jpg
     url: https://ef.jcu.cz
+  - name: Wroclaw University of Economics and Business
+    text: |-
+      Members:
+
+      * Dorota Molek-Winiarska
+    url: https://www.ue.wroc.pl/university/
+    image: /img/priscilla-du-preez-ggez9oyi-pe-unsplash.jpg
+  - name: Budapest University of Technology and Economics
+    text: |-
+      M﻿embers:
+
+      *
+    image: /img/priscilla-du-preez-ggez9oyi-pe-unsplash.jpg
+    url: https://www.bme.hu/?language=en
 ---
