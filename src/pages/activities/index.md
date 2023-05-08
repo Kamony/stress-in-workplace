@@ -13,5 +13,5 @@ activities:
       the workshop will be a comparison of the research, presentation of the
       research findings, preparation of the planned monograph, and other
       scientific outputs.
-    image: /img/edwin-andrade-4v1dc_eocwg-unsplash.jpg
+    image: /img/jaime-lopes-0rdboadnbwm-unsplash.jpg
 ---
