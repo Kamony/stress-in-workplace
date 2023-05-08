@@ -13,7 +13,7 @@ activities:
       the workshop will be a comparison of the research, presentation of the
       research findings, preparation of the planned monograph, and other
       scientific outputs.
-    image: /img/olga-tutunaru-jmatufkxehu-unsplash.jpg
+    image: /img/marvin-meyer-syto3xs06fu-unsplash.jpg
   - name: The common monograph "Readiness of small and medium-sized enterprises in
       V4 for stress management interventions."
     text: The monograph will consist of a description of the current state of the
