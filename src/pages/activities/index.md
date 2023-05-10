@@ -21,4 +21,7 @@ activities:
       the data, a comparison of the process in V4 states, and recommendations
       for businesses
     image: /img/sincerely-media-ngrfkmtwv24-unsplash.jpg
+  - name: Virtual kick-off meeting
+    text: Virtual kick-off meeting
+    image: /img/jaime-lopes-0rdboadnbwm-unsplash.jpg
 ---
