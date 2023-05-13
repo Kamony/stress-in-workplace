@@ -25,10 +25,7 @@ members:
     image: /img/priscilla-du-preez-ggez9oyi-pe-unsplash.jpg
     url: https://ef.jcu.cz
   - name: Wroclaw University of Economics and Business
-    text: |-
-      Members:
-
-      * Dorota Molek-Winiarska
+    text: ""
     url: https://www.ue.wroc.pl/university/
     image: /img/priscilla-du-preez-ggez9oyi-pe-unsplash.jpg
     people:
