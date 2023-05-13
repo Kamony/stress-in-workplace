@@ -7,21 +7,27 @@ import { PageHeader } from "../components/PageHeader";
 import Img from "gatsby-image";
 
 const LeftColumnMember = ({ imageInfo, name, text }) => (
-  <div className="column is-full">
+  <div className="block">
     <div className="card">
       <div className="card-header">
         <div className="card-header-title is-centered">{name}</div>
       </div>
-      <div className="card-image is-narrow">
-        <Img
-          fluid={imageInfo.childImageSharp.fluid}
-          object-fit={"contain"}
-          style={{ height: "auto", width: "100%", maxHeight: 350 }}
-          alt={""}
-        />
-      </div>
       <div className="card-content">
-        <HTMLContent content={toHTML(text)} />
+        <div className={"columns"}>
+          <div className={"column is-one-quarter"}>
+            <Img
+              fluid={imageInfo.childImageSharp.fluid}
+              object-fit={"cover"}
+              style={{ height: "100%", width: "auto" }}
+              alt={""}
+            />
+          </div>
+          <div className={"column"}>
+            <div className={"content"}>
+              <HTMLContent content={toHTML(text)} />
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -33,17 +39,18 @@ export const ActivitiesPageTemplate = ({ title, activities }) => {
       <PageHeader title={title} />
       <section className="section section--gradient">
         <div className="container">
-          <div className="content">
-            <div className="section">
-              {activities.map((member, index) => (
-                <LeftColumnMember
-                  key={index}
-                  name={member.name}
-                  text={member.text}
-                  imageInfo={member.image}
-                />
-              ))}
-            </div>
+          <div
+            className="content is-flex is-flex-direction-column"
+            style={{ gap: 16 }}
+          >
+            {activities.map((member, index) => (
+              <LeftColumnMember
+                key={index}
+                name={member.name}
+                text={member.text}
+                imageInfo={member.image}
+              />
+            ))}
           </div>
         </div>
       </section>

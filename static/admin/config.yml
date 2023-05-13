@@ -33,6 +33,15 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
 
+  - name: "members"
+    label: "Team members"
+    folder: "src/pages/members"
+    create: true
+    fields:
+      - { label: "Template Key", name: "templateKey", widget: "hidden", default: "members-post" }
+      - { name: "title", label: "Title", widget: "string" }
+      - { name: "body", label: "Body", widget: "markdown" }
+
   - name: "pages"
     label: "Pages"
     files:
@@ -60,7 +69,7 @@ collections:
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "team-page" }
           - { label: "Title", name: "title", widget: "string", default: "Research Team" }
-          - { label: Members, name: members, widget: list, fields: [ { label: Name, name: name, widget: text }, { label: Text, name: text, widget: markdown }, { label: Image, name: image, widget: image }, { label: Url, name: url, widget: text } ] }
+          - { label: Members, name: members, widget: list, fields: [ { label: Name, name: name, widget: text }, { label: Text, name: text, required: false, widget: markdown }, { label: People, name: people, widget: list, fields: [ {label: Name, name: name, widget: text}, { name: memberRelation, label: Link, required: false, widget: relation, collection: members, search_fields: [title], value_field: title } ] }, { label: Image, name: image, widget: image }, { label: Url, name: url, widget: text } ] }
       - file: "src/pages/activities/index.md"
         label: "Activities Page"
         name: "activities"

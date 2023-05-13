@@ -3,14 +3,25 @@ templateKey: team-page
 title: Research Team
 members:
   - name: University of South Bohemia, Faculty of Economics
-    text: |-
-      Members:
-
-      * Markéta Adamová
-      * Nikola Soukupová
-      * Jana Klicnarová
-      * Jan Fiala
-      * Tomáš Roskovec
+    text: ""
+    people:
+      - name: Nikola Soukupová
+        memberRelation: Nikola Soukupová
+      - name: |
+          Renata Klufová
+        memberRelation: ""
+      - name: |
+          Markéta Adamová
+        memberRelation: ""
+      - name: |
+          Jana Klicnarová
+        memberRelation: ""
+      - name: |
+          Jan Fiala
+        memberRelation: ""
+      - name: |
+          Tomáš Roskovec
+        memberRelation: ""
     image: /img/priscilla-du-preez-ggez9oyi-pe-unsplash.jpg
     url: https://ef.jcu.cz
   - name: Wroclaw University of Economics and Business
@@ -20,6 +31,9 @@ members:
       * Dorota Molek-Winiarska
     url: https://www.ue.wroc.pl/university/
     image: /img/priscilla-du-preez-ggez9oyi-pe-unsplash.jpg
+    people:
+      - name: Dorota Molek-Winiarska
+        memberRelation: Dorota Molek-Winiarska
   - name: Budapest University of Technology and Economics
     text: |-
       M﻿embers:

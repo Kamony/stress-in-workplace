@@ -8,24 +8,52 @@ import { HTMLContent } from "../components/Content";
 import { remark } from "remark";
 import remarkHTML from "remark-html";
 import { PageHeader } from "../components/PageHeader";
+import Link from "gatsby-link";
+
+const replaceGapsWithHyphens = (text) => {
+  return text.toLowerCase().replace(/\s+/g, "-");
+};
 
 export const toHTML = (value) =>
   remark().use(remarkHTML).processSync(value).toString();
 
-const LeftColumnMember = ({ imageInfo, name, text, url }) => (
+const LeftColumnMember = ({ imageInfo, name, text, url, people }) => (
   <div className="box">
-    <a href={url} target={"__blank"}>
-      <div className="columns">
-        <div className="column">
+    <div className="columns">
+      <div className="column">
+        <a href={url} target={"__blank"}>
           <PreviewCompatibleImage imageInfo={imageInfo} />
-        </div>
-        <div className="column">
-          <h1 className="subtitle has-text-centered">{name}</h1>
-          <div className="is-divider" />
-          <HTMLContent className={"content"} content={toHTML(text)} />
-        </div>
+        </a>
       </div>
-    </a>
+      <div className="column content">
+        <a href={url} target={"__blank"}>
+          <h1 className="subtitle has-text-centered">{name}</h1>
+        </a>
+        <div className="is-divider" />
+        <HTMLContent className={"content"} content={toHTML(text)} />
+        <div className="is-divider" />
+        {people?.length ? <span>Members:</span> : null}
+        {people?.length ? (
+          <ul>
+            {people.map((person, i) => (
+              <li key={i}>
+                {person?.memberRelation ? (
+                  <Link
+                    to={`/members/${replaceGapsWithHyphens(
+                      person.memberRelation
+                    )}`}
+                  >
+                    {person.name}
+                  </Link>
+                ) : (
+                  <span>{person.name}</span>
+                )}
+              </li>
+            ))}
+          </ul>
+        ) : null}
+      </div>
+    </div>
   </div>
 );
 
@@ -43,6 +71,7 @@ export const TeamPageTemplate = ({ title, members }) => (
                 text={member.text}
                 url={member.url}
                 imageInfo={member.image}
+                people={member.people}
               />
             ))}
           </div>
@@ -86,6 +115,10 @@ export const teamPageQuery = graphql`
           name
           text
           url
+          people {
+            name
+            memberRelation
+          }
           image {
             childImageSharp {
               gatsbyImageData(quality: 64)
