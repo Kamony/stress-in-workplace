@@ -2,4 +2,4 @@
 templateKey: members-post
 title: Nikola Soukupová
 ---
-N﻿ikola. Bydlí v Cejk. Ma stado deti.
+Focus areas: modern trends in management and current trends in human resource management.
