@@ -8,9 +8,6 @@ members:
       - name: Nikola Soukupová
         memberRelation: Nikola Soukupová
       - name: |
-          Renata Klufová
-        memberRelation: ""
-      - name: |
           Markéta Adamová
         memberRelation: ""
       - name: |
