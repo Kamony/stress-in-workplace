@@ -1,17 +1,17 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { kebabCase } from "lodash";
 import { Helmet } from "react-helmet";
-import { graphql, Link } from "gatsby";
+import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
-import { BlogPostTemplate } from "./blog-post";
 import { PageHeader } from "../components/PageHeader";
+import Img from "gatsby-image";
 
 export const MemberTemplate = ({
   content,
   contentComponent,
-  title,
+  image,
+  name,
   helmet,
 }) => {
   const PageContent = contentComponent || Content;
@@ -20,7 +20,18 @@ export const MemberTemplate = ({
     <section className="section">
       {helmet || ""}
       <div className="container content">
-        <PageContent content={content} />
+          {image ? <div className={"is-flex is-justify-content-center is-align-content-center"}>
+            <Img
+              className={"member-image"}
+              fixed={image.childImageSharp.fixed}
+              alt={""}
+            />
+          </div> : null}
+
+        <PageHeader title={name} />
+        <div className={"mt-6"}>
+            <PageContent content={content} />
+        </div>
       </div>
     </section>
   );
@@ -38,7 +49,6 @@ const MembersPost = ({ data }) => {
 
   return (
     <Layout>
-      <PageHeader title={post.frontmatter.title} />
       <MemberTemplate
         content={post.html}
         contentComponent={HTMLContent}
@@ -47,7 +57,8 @@ const MembersPost = ({ data }) => {
             <title>{`${post.frontmatter.title}`}</title>
           </Helmet>
         }
-        title={post.frontmatter.title}
+        name={post.frontmatter.title}
+        image={post.frontmatter.image}
       />
     </Layout>
   );
@@ -68,6 +79,13 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        image {
+            childImageSharp {
+                fixed(width: 324, height: 324) {
+                    ...GatsbyImageSharpFixed
+                }
+            }
+        }
       }
     }
   }
