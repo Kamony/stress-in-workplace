@@ -28,6 +28,8 @@ members:
     people:
       - name: Dorota Molek-Winiarska
         memberRelation: Dorota Molek-Winiarska
+      - name: Jakub Drzewiecki
+        memberRelation: Jakub Drzewiecki
   - name: Budapest University of Technology and Economics
     text: |-
       M﻿embers:
