@@ -18,7 +18,7 @@ members:
         memberRelation: Jan Fiala
       - name: |
           Tomáš Roskovec
-        memberRelation: ""
+        memberRelation: Tomáš Roskovec
     image: /img/priscilla-du-preez-ggez9oyi-pe-unsplash.jpg
     url: https://ef.jcu.cz
   - name: Wroclaw University of Economics and Business
