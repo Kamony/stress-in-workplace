@@ -27,7 +27,7 @@ members:
     image: /img/priscilla-du-preez-ggez9oyi-pe-unsplash.jpg
     people:
       - name: Dorota Molek-Winiarska
-        memberRelation: ""
+        memberRelation: Dorota Molek-Winiarska
   - name: Budapest University of Technology and Economics
     text: |-
       M﻿embers:
