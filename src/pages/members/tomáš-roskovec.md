@@ -7,6 +7,10 @@ image: /img/roskovcovi255-1-.jpg
 
 I specialize in general and applied mathematics, with a focus on Sobolev spaces, properties of mappings, and inequalities. I obtained my Ph.D. at Charles University in Prague under the supervision of Prof. Stanislav Hencl in 2017. Out of my main field, I venture into statistics, optimization, and game theory. Currently, I am a member of the committee of the [Czech mathematical society](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fjcmf.cz%2F%3Fq%3Den%2Fnode%2F799&data=05%7C01%7Cnsoukupova%40ef.jcu.cz%7C9dc14bd920fb4ec7601308db612155da%7Cc35f5da49a0344e68bf992833634f6a7%7C0%7C0%7C638210568025489339%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=HJ95ODHcpCaZzWaM9KfhCP3vGQMSVqTkyj%2BNj0pTGrg%3D&reserved=0 "Původní adresa URL: https\://jcmf.cz/?q=en/node/799. Na tento odkaz klikněte nebo klepněte, pokud ho považujete za důvěryhodný.").
 
+**R﻿esearch Area**
+
+Mathematical analysis, Sobolev spaces, Gagliardo-Nirenberg inequality, Lusin N condition, Optimization
+
 **Chosen Publications**
 
 * Fiorenza, A., Formica, M. R., Roskovec, T. G., & Soudský, F. (2021). Detailed proof of classical Gagliardo–Nirenberg interpolation inequality with historical remarks. *Zeitschrift für Analysis und ihre Anwendungen*, *40*(2), 217-236.
