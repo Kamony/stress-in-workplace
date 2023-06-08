@@ -1,6 +1,7 @@
 ---
 templateKey: members-post
 title: Dorota Molek-Winiarska
+image: /img/molek-winiarska-foto1.jpg
 ---
 **A﻿bout**
 
