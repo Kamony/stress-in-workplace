@@ -1,11 +1,6 @@
 ---
 templateKey: members-post
 title: Nikola Soukupová
-image: /img/dsc03876.jpg
+image: /img/thumbnail_19d6bcc5-ae2a-4c75-97a9-9c49b6b05f56.jpg
 ---
-
-
-## **Focus areas**
-
-* Modern trends in management
-* Current trends in human resource management.
+## **A﻿bout**
