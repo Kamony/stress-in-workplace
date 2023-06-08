@@ -15,7 +15,7 @@ members:
         memberRelation: ""
       - name: |
           Jan Fiala
-        memberRelation: ""
+        memberRelation: Jan Fiala
       - name: |
           Tomáš Roskovec
         memberRelation: ""
