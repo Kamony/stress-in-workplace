@@ -31,3 +31,5 @@ N﻿ew Trends in HRM, Stress Management, Age Management, Ethics in Workplace.
 * The Member of the Organizing Committee of the International Scientific Conference "Mathematical Methods in Economics" (vol. 2019).
 
 **P﻿ersonal Drive**
+
+As a scientist, my drive is fueled by the desire to understand and improve the dynamics within modern workplaces, specifically in the areas of stress management and age management. My pursuit of practical solutions and strategies that can be implemented in real-world situations stems from a deep commitment to creating healthier, more productive, and harmonious environments.
