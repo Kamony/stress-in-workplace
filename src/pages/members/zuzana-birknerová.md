@@ -13,4 +13,4 @@ The results of my scientific projects are published in scientific monographs, sc
 
 **G﻿rants**
 
-I﻿ have beenthe principal (6), deputy investigator (5), and a successful team member (5) of the domestic scientific grant projects.
+I﻿ have been the principal (6), deputy investigator (5), and a successful team member (5) of the domestic scientific grant projects.
