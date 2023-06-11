@@ -9,7 +9,7 @@ In my professional work, I focus on mathematics, probability, and statistics and
 
 **Research Area**
 
-P﻿edagogy, Mathematics, Informatics
+P﻿edagogy, Mathematics, Informatics.
 
 **Publications**
 
