@@ -23,10 +23,14 @@ activities:
     image: /img/sincerely-media-ngrfkmtwv24-unsplash.jpg
   - name: Virtual kick-off meeting
     text: >-
-      **Virtual kick-off meeting**
-
-
-      Organization of virtual meeting with project partners via MS Teams on 3. 7. 2023. The event's content will be coordination issues, research design, distribution of tasks, and desk research. A project plan will be developed that outlines how the project will be carried out within time and cost constraints. The virtual kick-off meeting is carried out to bring all project partners to a common understanding of the project. Each of the sub-project teams of the partner countries will be assigned tasks to solve.
+      Organization of virtual meeting with project partners via MS Teams on 3.
+      7. 2023. The event's content will be coordination issues, research design,
+      distribution of tasks, and desk research. A project plan will be developed
+      that outlines how the project will be carried out within time and cost
+      constraints. The virtual kick-off meeting is carried out to bring all
+      project partners to a common understanding of the project. Each of the
+      sub-project teams of the partner countries will be assigned tasks to
+      solve.
 
 
       [L﻿INK](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDRiYTUyZDItNzZjYy00OWFjLThmODMtNTljNzRmZjBlM2Mx%40thread.v2/0?context=%7b%22Tid%22%3a%22c35f5da4-9a03-44e6-8bf9-92833634f6a7%22%2c%22Oid%22%3a%2273abd0a5-b6af-48ce-b78b-74edfd62827e%22%7d)
