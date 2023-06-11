@@ -28,3 +28,4 @@ N﻿ew Trends in HRM, Stress Management, Age Management, Ethics in Workplace.
 
 * The Member of the Organizing Committee of the International Scientific Conference "Ethics in 21st Century" (vol. 2021).
 * The Member of the Organizing Committee of the International Scientific Conference "Inproforum" (vol. 2018, 2019, 2020).
+* The Member of the Organizing Committee of the International Scientific Conference "Mathematical Methods in Economics" (vol. 2019).
