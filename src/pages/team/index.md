@@ -44,4 +44,7 @@ members:
       M﻿embers:
 
       * Zuzana Birknerová
+    people:
+      - name: Zuzana Birknerová
+        memberRelation: Zuzana Birknerová
 ---
