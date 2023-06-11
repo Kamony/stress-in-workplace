@@ -9,7 +9,7 @@ I specialize in general and applied mathematics, with a focus on Sobolev spaces,
 
 **R﻿esearch Area**
 
-Mathematical analysis, Sobolev spaces, Gagliardo-Nirenberg inequality, Lusin N condition, Optimization
+Mathematical analysis, Sobolev spaces, Gagliardo-Nirenberg inequality, Lusin N condition, Optimization.
 
 **Chosen Publications**
 
@@ -31,7 +31,7 @@ Mathematical analysis, Sobolev spaces, Gagliardo-Nirenberg inequality, Lusin N c
 * 2021 Member of the organizing committee of the international workshop “Per Partes 2021/in honour of Amiran Gogatishvili 60 birthday”.
 * 2020 Member of the organizing committee of the international workshop “GeoCa 2020”.
 * 2016 Member of the organizing committee of the international conference “Function Spaces, Differential Operators and Nonlinear Analysis 2016”.
-* 2014–2016 course “[Mathematical Problems of Non-Mathematicians](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww2.karlin.mff.cuni.cz%2Fmffseminar%2F&data=05%7C01%7Cnsoukupova%40ef.jcu.cz%7C9dc14bd920fb4ec7601308db612155da%7Cc35f5da49a0344e68bf992833634f6a7%7C0%7C0%7C638210568025645488%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=JYHt4l35D5Q6BLQxqW8vgwZbMUaZckelQBGl0hrQxD4%3D&reserved=0 "Původní adresa URL: https\://www2.karlin.mff.cuni.cz/mffseminar/. Na tento odkaz klikněte nebo klepněte, pokud ho považujete za důvěryhodný.")” (co-founder of seminar)
+* 2014–2016 course “[Mathematical Problems of Non-Mathematicians](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww2.karlin.mff.cuni.cz%2Fmffseminar%2F&data=05%7C01%7Cnsoukupova%40ef.jcu.cz%7C9dc14bd920fb4ec7601308db612155da%7Cc35f5da49a0344e68bf992833634f6a7%7C0%7C0%7C638210568025645488%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=JYHt4l35D5Q6BLQxqW8vgwZbMUaZckelQBGl0hrQxD4%3D&reserved=0 "Původní adresa URL: https\://www2.karlin.mff.cuni.cz/mffseminar/. Na tento odkaz klikněte nebo klepněte, pokud ho považujete za důvěryhodný.")” (co-founder of seminar).
 
 **P﻿ersonal Drive**
 
