@@ -5,7 +5,7 @@ image: /img/birknerova_zuzana.jpg
 ---
 **A﻿bout**
 
-I﻿ am an Associate professor at the Faculty of Management and Business, University of Prešov in Prešov, Slovakia, where she works in the position of the Head of the Department of Managerial Psychology. She teaches the following subjects: Organizational Behavior, Methodology and Methods of Social Research, Trading Behavior, Social Psychology, Basics of Coaching in Business Management, Basics of Managerial Psychology and Trading Psychology.
+I﻿ am an Associate professor at the Faculty of Management and Business, University of Prešov in Prešov, Slovakia, where I work in the position of the Head of the Department of Managerial Psychology. I teach the following subjects: Organizational Behavior, Methodology and Methods of Social Research, Trading Behavior, Social Psychology, Basics of Coaching in Business Management, Basics of Managerial Psychology and Trading Psychology.
 
 **Publications**
 
