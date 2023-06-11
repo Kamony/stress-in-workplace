@@ -48,4 +48,5 @@ members:
       - name: Zuzana Birknerová
         memberRelation: Zuzana Birknerová
       - name: Lucia Zbihlejová
+        memberRelation: Lucia Zbihlejová
 ---
