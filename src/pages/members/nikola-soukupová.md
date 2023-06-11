@@ -25,3 +25,6 @@ N﻿ew Trends in HRM, Stress Management, Age Management, Ethics in Workplace.
 * Project Visegrad ID 22010034 "Are countries of the Visegrad Group (V4) ready for the consequences of population aging?" (member of a team).
 
 **E﻿vent Management**
+
+* The Member of the Organizing Committee of the International Scientific Conference "Ethics in 21st Century" (vol. 2021).
+* The Member of the Organizing Committee of the International Scientific Conference "Inproforum" (vol. 2018, 2019, 2020).
