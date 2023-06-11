@@ -9,7 +9,7 @@ members:
         memberRelation: Nikola Soukupová
       - name: |
           Markéta Adamová
-        memberRelation: ""
+        memberRelation: Markéta Adamová
       - name: |
           Jana Klicnarová
         memberRelation: ""
