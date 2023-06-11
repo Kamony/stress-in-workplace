@@ -9,7 +9,7 @@ I am specialized in management, especially human resource management. Research i
 
 **R﻿esearch Area**
 
-Management, Communication, Motivation, Human Resource Management
+Management, Communication, Motivation, Human Resource Management.
 
 **C﻿hosen Publication**
 
@@ -23,7 +23,7 @@ Management, Communication, Motivation, Human Resource Management
 
 **E﻿vent Management**
 
-The Head of the Organizing Committee of the International Scientific Conference "Ethics in 21st Century" (vol. 2021, 2022).
+* The Head of the Organizing Committee of the International Scientific Conference "Ethics in 21st Century" (vol. 2021, 2022).
 
 **P﻿ersonal Drive**
 
