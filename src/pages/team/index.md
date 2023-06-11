@@ -40,10 +40,7 @@ members:
   - name: University of Presov
     url: https://www.unipo.sk/en/
     image: /img/priscilla-du-preez-ggez9oyi-pe-unsplash.jpg
-    text: |-
-      M﻿embers:
-
-      * Zuzana Birknerová
+    text: ""
     people:
       - name: Zuzana Birknerová
         memberRelation: Zuzana Birknerová
