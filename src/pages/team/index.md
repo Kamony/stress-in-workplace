@@ -12,7 +12,7 @@ members:
         memberRelation: Markéta Adamová
       - name: |
           Jana Klicnarová
-        memberRelation: ""
+        memberRelation: Jana Klicnarová
       - name: |
           Jan Fiala
         memberRelation: Jan Fiala
