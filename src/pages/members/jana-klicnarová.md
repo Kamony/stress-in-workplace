@@ -1,6 +1,7 @@
 ---
 templateKey: members-post
 title: Jana Klicnarová
+image: /img/janak.jpg
 ---
 **About**
 
