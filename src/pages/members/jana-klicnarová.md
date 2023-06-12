@@ -14,6 +14,6 @@ Originally, my focus areas were stochastic processes, limit theorems and their a
 
 **Chosen Grants**
 
-* · 2011-2014 Czech Science Foundation P201/11/P164 – Martingale Approximations a U-statistics (applicant)
-* · 2008 – 2009 Barrande 17377NH (member of a team)
-* · 2017 – 2019 Czech Science Foundation GA17-07384S - Nonparametric (statistical) Methods in Modern Econometrics (member of a team)
+* 2011-2014 Czech Science Foundation P201/11/P164 – Martingale Approximations a U-statistics (applicant)
+* 2008 – 2009 Barrande 17377NH (member of a team)
+* 2017 – 2019 Czech Science Foundation GA17-07384S - Nonparametric (statistical) Methods in Modern Econometrics (member of a team)
