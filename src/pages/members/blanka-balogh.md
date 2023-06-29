@@ -5,7 +5,7 @@ image: /img/blanka.jpg
 ---
 **A﻿bout**
 
-Intro: Psychologist specialized for work and organizations, experienced in organizational and personal development, education, mental health programs (well-being, positive psychology interventions, character strengths, and coping with stress), organizational and HR process development, employer branding, trainings and solution-focused brief coaching. Researching well-being at work and how tailored positive psychology interventions may increase employee well-being, reduce stress, and develop effective coping strategies. Gained experience both with organizations and individuals.
+Psychologist specialized for work and organizations, experienced in organizational and personal development, education, mental health programs (well-being, positive psychology interventions, character strengths, and coping with stress), organizational and HR process development, employer branding, trainings and solution-focused brief coaching. Researching well-being at work and how tailored positive psychology interventions may increase employee well-being, reduce stress, and develop effective coping strategies. Gained experience both with organizations and individuals.
 
 **R﻿esearch Area**
 
