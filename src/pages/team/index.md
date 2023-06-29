@@ -9,7 +9,7 @@ members:
         memberRelation: Nikola Soukupová
       - name: |
           Markéta Kocourková
-        memberRelation: Markéta Kocourková
+        memberRelation: Marketa Kocourkova
       - name: |
           Jana Klicnarová
         memberRelation: Jana Klicnarová
