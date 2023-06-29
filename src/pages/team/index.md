@@ -37,6 +37,9 @@ members:
       * Kun Ágota
     image: /img/priscilla-du-preez-ggez9oyi-pe-unsplash.jpg
     url: https://www.bme.hu/?language=en
+    people:
+      - name: Ágota Kun
+        memberRelation: Ágota Kun
   - name: University of Presov
     url: https://www.unipo.sk/en/
     image: /img/priscilla-du-preez-ggez9oyi-pe-unsplash.jpg
