@@ -40,6 +40,7 @@ members:
     people:
       - name: Ágota Kun
         memberRelation: Ágota Kun
+      - name: Péter Balogh
   - name: University of Presov
     url: https://www.unipo.sk/en/
     image: /img/priscilla-du-preez-ggez9oyi-pe-unsplash.jpg
