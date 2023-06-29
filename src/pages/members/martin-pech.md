@@ -1,6 +1,7 @@
 ---
 templateKey: members-post
 title: Martin Pech
+image: /img/mpech.png
 ---
 **A﻿bout**
 
@@ -18,7 +19,7 @@ Management, Lean Production, Industry 4.0, Logistics
 
  **Chosen Grants:**
 
-* Internal project advisor: **IGS202006** (Industry 4.0 and Supply Chain Management, 2020-2021)
+* Internal project advisor: IGS202006(Industry 4.0 and Supply Chain Management, 2020-2021)
 
 **E﻿vent Management**
 
