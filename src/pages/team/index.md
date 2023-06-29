@@ -31,10 +31,7 @@ members:
       - name: Jakub Drzewiecki
         memberRelation: Jakub Drzewiecki
   - name: Budapest University of Technology and Economics
-    text: |-
-      M﻿embers:
-
-      * Kun Ágota
+    text: ""
     image: /img/priscilla-du-preez-ggez9oyi-pe-unsplash.jpg
     url: https://www.bme.hu/?language=en
     people:
