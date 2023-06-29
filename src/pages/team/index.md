@@ -19,6 +19,8 @@ members:
       - name: |
           Tomáš Roskovec
         memberRelation: Tomáš Roskovec
+      - name: Martin Pech
+        memberRelation: Martin Pech
     image: /img/priscilla-du-preez-ggez9oyi-pe-unsplash.jpg
     url: https://ef.jcu.cz
   - name: Wroclaw University of Economics and Business
