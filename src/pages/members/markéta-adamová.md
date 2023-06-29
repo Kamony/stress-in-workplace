@@ -1,6 +1,6 @@
 ---
 templateKey: members-post
-title: Markéta Adamová
+title: Markéta Kocourková
 image: /img/adamovam.jpeg
 ---
 **A﻿bout**
