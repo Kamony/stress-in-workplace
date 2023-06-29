@@ -8,8 +8,8 @@ members:
       - name: Nikola Soukupová
         memberRelation: Nikola Soukupová
       - name: |
-          Markéta Adamová
-        memberRelation: Markéta Adamová
+          Markéta Kocourková
+        memberRelation: Markéta Kocourková
       - name: |
           Jana Klicnarová
         memberRelation: Jana Klicnarová
