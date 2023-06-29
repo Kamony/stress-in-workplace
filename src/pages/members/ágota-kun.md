@@ -1,6 +1,7 @@
 ---
 templateKey: members-post
 title: Ágota Kun
+image: /img/ágota.jpg
 ---
 A﻿bout
 
