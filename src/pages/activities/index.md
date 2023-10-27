@@ -4,7 +4,8 @@ title: Activities
 activities:
   - name: |
       The international workshop of project partners 
-    text: Organization of a two-day international workshop, "Stress management in
+    text: >-
+      Organization of a two-day international workshop, "Stress management in
       the workplace," in the Czech Republic (České Budějovice). The objective
       will be to bring together the academic community and business
       practitioners. The event will combine the presentation of the latest
@@ -13,6 +14,12 @@ activities:
       the workshop will be a comparison of the research, presentation of the
       research findings, preparation of the planned monograph, and other
       scientific outputs.
+
+
+      I﻿nvitation and programme [here](https://www.ef.jcu.cz/cz/fakulta/kalendar-akci/111-mezinarodni-workshop-stress-management-in-the-workplace)
+
+
+      We cordially invite all academics, students and practitioners to attend the workshop. For more information on the venue, registration and programme, please click [here](https://www.ef.jcu.cz/cz/fakulta/kalendar-akci/111-mezinarodni-workshop-stress-management-in-the-workplace).
     image: /img/marvin-meyer-syto3xs06fu-unsplash.jpg
   - name: The common monograph "Readiness of small and medium-sized enterprises in
       V4 for stress management interventions."
