@@ -16,9 +16,7 @@ activities:
       scientific outputs.
 
 
-      * I﻿nvitation and programme here.﻿
-
-      * P﻿ress release:
+      **P﻿ress release**
 
 
       On November 2nd and 3rd, a two-day workshop was held at the Faculty of Economics, University of South Bohemia in České Budějovice, focusing on the issue of stress and stress management in the business environment. The workshop is a part of project "Readiness of small and medium-sized enterprises in V4 for stress management interventions" which is co-financed by the Governments of Czechia, Hungary, Poland and Slovakia through Visegrad Grants from tInternational Visegrad Fund. This workshop brought together research teams from Visegrád Group countries, specifically teams from Poland (Wroclaw University of Economics and Business), Slovakia (University of Presov), and Hungary (Budapest University of Technology and Economics), in addition to our faculty.
