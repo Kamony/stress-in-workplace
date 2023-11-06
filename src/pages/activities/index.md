@@ -16,10 +16,18 @@ activities:
       scientific outputs.
 
 
-      I﻿nvitation and programme [here](https://www.ef.jcu.cz/cz/fakulta/kalendar-akci/111-mezinarodni-workshop-stress-management-in-the-workplace)
+      * I﻿nvitation and programme here.﻿
+
+      * P﻿ress release:
 
 
-      We cordially invite all academics, students and practitioners to attend the workshop. For more information on the venue, registration and programme, please click [here](https://www.ef.jcu.cz/cz/fakulta/kalendar-akci/111-mezinarodni-workshop-stress-management-in-the-workplace).
+      On November 2nd and 3rd, a two-day workshop was held at the Faculty of Economics, University of South Bohemia in České Budějovice, focusing on the issue of stress and stress management in the business environment. The workshop is a part of project "Readiness of small and medium-sized enterprises in V4 for stress management interventions" which is co-financed by the Governments of Czechia, Hungary, Poland and Slovakia through Visegrad Grants from tInternational Visegrad Fund. This workshop brought together research teams from Visegrád Group countries, specifically teams from Poland (Wroclaw University of Economics and Business), Slovakia (University of Presov), and Hungary (Budapest University of Technology and Economics), in addition to our faculty.
+
+
+      The workshop attracted not only academics and students but also employment experts, HR specialists, and representatives from the South Bohemian Chamber of Commerce. Discussions during the workshop were intense and open, leading to valuable insights and solutions regarding workplace stress. Participants had the opportunity to share their experiences and find common paths to address the entire issue, benefiting both in theory and practical application for businesses.
+
+
+      In addition to the rich academic debates, the workshop featured a diverse cultural program that allowed participants to network and enjoy shared activities outside the lecture halls. This workshop was a valuable contribution to all involved and reinforced collaboration between universities and industrial partners in the field of workplace stress management.
     image: /img/marvin-meyer-syto3xs06fu-unsplash.jpg
   - name: The common monograph "Readiness of small and medium-sized enterprises in
       V4 for stress management interventions."
