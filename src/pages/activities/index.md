@@ -51,4 +51,38 @@ activities:
 
       [](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDRiYTUyZDItNzZjYy00OWFjLThmODMtNTljNzRmZjBlM2Mx%40thread.v2/0?context=%7b%22Tid%22%3a%22c35f5da4-9a03-44e6-8bf9-92833634f6a7%22%2c%22Oid%22%3a%2273abd0a5-b6af-48ce-b78b-74edfd62827e%22%7d)
     image: /img/jaime-lopes-0rdboadnbwm-unsplash.jpg
+  - name: The methodical recommendation
+    text: >-
+      This methodology provides a practical guide for implementing effective
+      stress management strategies in small and medium-sized enterprises (SMEs)
+      and organizations. It is tailored to the specific business environments of
+      the Visegrad Four (V4) countries—Czechia, Slovakia, Poland, and Hungary.
+      The content is based on research conducted by the project team and
+      addresses current challenges related to workplace stress.
+
+
+      **The methodology includes:**
+
+
+      * **Stress Audit:** Tools and procedures to identify the primary stressors in the workplace.
+
+      * **Development of a Stress Management Policy:** Recommendations for establishing clear goals and procedures, supported by a comprehensive communication strategy.
+
+      * **Action Plan:** Practical steps incorporating organizational and individual interventions, such as training, ergonomic improvements, and employee well-being support.
+
+      * **Role of Technology:** Suggestions for utilizing digital tools to monitor and mitigate stress.
+
+      * **Stress Management Model:** An integrated approach combining organizational and individual measures.
+
+
+      The recommendations address the low awareness and implementation of stress management practices in enterprises. They equip businesses with tools to prevent the negative impacts of stress, such as burnout, turnover, and decreased productivity, while supporting sustainability and competitiveness.
+
+
+      The methodology is available in English, Czech, Slovak, Polish, and Hungarian.
+
+
+
+
+      The product is published exclusively in an online format for easy distribution and efficient dissemination. To download the methodology, click the link below.
+    image: /img/doporučení.jpg
 ---
