@@ -44,6 +44,41 @@ activities:
 
       In addition to the rich academic debates, the workshop featured a diverse cultural program that allowed participants to network and enjoy shared activities outside the lecture halls. This workshop was a valuable contribution to all involved and reinforced collaboration between universities and industrial partners in the field of workplace stress management.
     image: /img/marvin-meyer-syto3xs06fu-unsplash.jpg
+  - name: Questionnaire for Stress Management in SMEs
+    text: >-
+      The developed questionnaire serves as a comprehensive tool designed to
+      analyze and address workplace stress management practices in small and
+      medium-sized enterprises (SMEs) across participating countries. Created
+      collaboratively by the project team, it is available in four language
+      versions—Czech, Slovak, Hungarian, and Polish—ensuring cultural and
+      linguistic relevance for each region.
+
+      The questionnaire aims to systematically gather insights on:
+
+
+      \- Awareness and knowledge of stress management issues within companies.Implementation and effectiveness of stress management strategies.
+
+      - Identification and assessment of work-related stressors.
+
+      - Evaluation of coping strategies utilized by employees and organizations.
+
+      - Exploration of the economic aspects related to workplace stress.
+
+
+
+      Additionally, the questionnaire incorporates questions regarding the organizational profile, enabling a deeper understanding of the context in which these stress management practices operate.   
+
+
+
+      The tool is designed for use with small and medium-sized enterprises, with a focus on gathering data from a diverse range of industries. This approach ensures that the findings reflect the varied nature of business environments and the specific challenges SMEs face in managing workplace stress.
+
+
+
+      The questionnaire is structured for electronic distribution and optimized for use via digital platforms, facilitating streamlined data collection and analysis. To ensure a consistent approach across regions, each national team was tasked with translating and disseminating the questionnaire, adapting it to their local context while maintaining alignment with the overall research objectives.
+
+
+      This questionnaire represents a critical component of the project, supporting the development of actionable insights and recommendations for improving stress management practices in SMEs.
+    image: /img/dotazník.jpg
   - name: The common monograph "Readiness of small and medium-sized enterprises in
       V4 for stress management interventions."
     text: The monograph will consist of a description of the current state of the
@@ -85,39 +120,4 @@ activities:
 
       The product is published exclusively in an online format for easy distribution and efficient dissemination. To download the methodology, click the link below.
     image: /img/doporučení.jpg
-  - name: Questionnaire for Stress Management in SMEs
-    text: >-
-      The developed questionnaire serves as a comprehensive tool designed to
-      analyze and address workplace stress management practices in small and
-      medium-sized enterprises (SMEs) across participating countries. Created
-      collaboratively by the project team, it is available in four language
-      versions—Czech, Slovak, Hungarian, and Polish—ensuring cultural and
-      linguistic relevance for each region.
-
-      The questionnaire aims to systematically gather insights on:
-
-
-      \- Awareness and knowledge of stress management issues within companies.Implementation and effectiveness of stress management strategies.
-
-      - Identification and assessment of work-related stressors.
-
-      - Evaluation of coping strategies utilized by employees and organizations.
-
-      - Exploration of the economic aspects related to workplace stress.
-
-
-
-      Additionally, the questionnaire incorporates questions regarding the organizational profile, enabling a deeper understanding of the context in which these stress management practices operate.   
-
-
-
-      The tool is designed for use with small and medium-sized enterprises, with a focus on gathering data from a diverse range of industries. This approach ensures that the findings reflect the varied nature of business environments and the specific challenges SMEs face in managing workplace stress.
-
-
-
-      The questionnaire is structured for electronic distribution and optimized for use via digital platforms, facilitating streamlined data collection and analysis. To ensure a consistent approach across regions, each national team was tasked with translating and disseminating the questionnaire, adapting it to their local context while maintaining alignment with the overall research objectives.
-
-
-      This questionnaire represents a critical component of the project, supporting the development of actionable insights and recommendations for improving stress management practices in SMEs.
-    image: /img/dotazník.jpg
 ---
