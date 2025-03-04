@@ -9,4 +9,7 @@ dates:
   - startDate: 2023-07-03T14:11:00.112Z
     endDate: 2023-07-03T14:11:00.130Z
     name: Virtual kick-off meeting
+  - startDate: 2024-08-01T05:44:06.236Z
+    endDate: 2024-10-31T06:44:06.251Z
+    name: The methodical recommendation
 ---
