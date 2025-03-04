@@ -12,4 +12,8 @@ dates:
   - startDate: 2024-08-01T05:44:06.236Z
     endDate: 2024-10-31T06:44:06.251Z
     name: The methodical recommendation
+  - startDate: 2023-12-01T06:46:08.429Z
+    endDate: 2024-07-31T05:46:08.445Z
+    name: Creating the common monograph "Readiness of small and medium-sized
+      enterprises in V4 for stress management interventions"
 ---
