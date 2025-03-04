@@ -81,10 +81,17 @@ activities:
     image: /img/dotazník.jpg
   - name: The common monograph "Readiness of small and medium-sized enterprises in
       V4 for stress management interventions."
-    text: The monograph will consist of a description of the current state of the
+    text: >-
+      The monograph will consist of a description of the current state of the
       issue, an overview of the research findings, a statistical evaluation of
       the data, a comparison of the process in V4 states, and recommendations
       for businesses
+
+
+      The monograph is in English for educational purposes and is intended primarily for academic and pedagogical use, but also for professionals in the field and other interest groups.On the basis of the available budget and the publisher's quotation valid at the time of publication, 160 copies of the 175-page monograph were agreed and paid for. This quantification reflected both the financial possibilities of the project and the expected demand among academic institutions and the professional public. Recommendations for practice have then been developed from the monograph. 
+
+
+      Chapters: Nikola Soukupová, Markéta Kocourková, Martin Pech (chap. 1, 2, 6, 7, 8); Jana Klicnarová, Jan Fiala, Tomáš Roskovec (chap. 6, 7); Zuzana Birknerová, Lucia Zbihlejová (chap. 3); Dorota Molek-Winiarska, Jakub Drzewiecki (chap. 4); Ágota Kun, Hajnalka Turóczi, Péter Balogh (chap. 5).
     image: /img/sincerely-media-ngrfkmtwv24-unsplash.jpg
   - name: The methodical recommendation
     text: >-
